@@ -1,0 +1,5 @@
+.env
+DAY3_SOL/TASK_C/__pycache__/local_lib.cpython-310.pyc
+DAY3_SOL/TASK_A/__pycache__/local_lib.cpython-310.pyc
+DAY3_SOL/TASK_B/__pycache__/rag_lib.cpython-310.pyc
+**/debug.log
